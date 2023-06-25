@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nayan</h1>
 
-&emsp;
+<!--&emsp;
 
 - 🔭 I’m currently working on [ThinkQuotient](https://thinkquotient.com/) as a trainee.
 
 - 🌱 I’m currently learning **C#, dot net**
 
-&emsp;
+&emsp; -->
 
  ## 🛠️ My Skills
 
